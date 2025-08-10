@@ -1,0 +1,14 @@
+D:\Jenkins2\Day-2\welcomeApp\bin\Debug\net8.0\welcomeApp.exe
+D:\Jenkins2\Day-2\welcomeApp\bin\Debug\net8.0\welcomeApp.deps.json
+D:\Jenkins2\Day-2\welcomeApp\bin\Debug\net8.0\welcomeApp.runtimeconfig.json
+D:\Jenkins2\Day-2\welcomeApp\bin\Debug\net8.0\welcomeApp.dll
+D:\Jenkins2\Day-2\welcomeApp\bin\Debug\net8.0\welcomeApp.pdb
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\welcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\welcomeApp.AssemblyInfoInputs.cache
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\welcomeApp.AssemblyInfo.cs
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\welcomeApp.csproj.CoreCompileInputs.cache
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\welcomeApp.dll
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\refint\welcomeApp.dll
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\welcomeApp.pdb
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\welcomeApp.genruntimeconfig.cache
+D:\Jenkins2\Day-2\welcomeApp\obj\Debug\net8.0\ref\welcomeApp.dll
